@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+
+  <channel> 
+           <title> Početna stranica</title>
+           <link> </link>
+           <description> Ovo je sajt o računarskim komponentama </description>
+     <item>
+              <title> Prodaja komponenti </title>
+           <link> </link>
+            <description> Specifikacija i prodaja komponenti </description>
+      </item>
+      <item>
+              <title> O komponentama </title>
+           <link> </link>
+            <description> Kratak opis komponenti  </description>
+      </item>
+  </channel>
+</rss>
